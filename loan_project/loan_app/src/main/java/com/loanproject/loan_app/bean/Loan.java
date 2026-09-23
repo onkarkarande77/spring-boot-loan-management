@@ -7,7 +7,7 @@ import jakarta.persistence.ManyToOne;
 
 @Entity 
 public class Loan {
-
+ 
     @Id
     @GeneratedValue
     private Long loanId;
